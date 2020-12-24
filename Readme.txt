@@ -1,3 +1,6 @@
+The data set has been taken from UCI data set archive. 
+The file Bike_sharing.ipynb contains the simple Linear Regression Model.
+
 ==========================================
 Bike Sharing Dataset
 ==========================================
